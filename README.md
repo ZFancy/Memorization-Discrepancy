@@ -1,4 +1,3 @@
-The code for Memorization Discrepancy based on Accumulative Poisoning Attacks
 
 ## Environment settings and libraries we used in our experiments
 
